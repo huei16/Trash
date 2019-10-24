@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700,800');
+
+:root {  --mainColor: #ff9800;}
+html {scroll-behavior: smooth;}
+body{font-family: 'Merriweather Sans', sans-serif; height:45vw;}
+.blank{height:5vh; width:100%;}
+.p-blank{height:1em;width:100%;}
+
+/*  Content  */
+.blank{height:5vh; width:100%;}
+.p-blank{height:1em;width:100%;}
+
+.box{position:relative;}
+.coffee{position: absolute;; left:15vw; top:5vw;}
+.sushi{position: absolute; right:15vw; top:32.5vw;}
+.yogurt{position: absolute; left:15vw; top:60vw;}
